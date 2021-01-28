@@ -1,11 +1,8 @@
 # pandas-challenge
-
 ## Heroes of Pymoli
-You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
+In this challenge, I was able to use Pandas Library and Jupyter Notebook to complete the assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli. 
+Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, I've been asked to generate a report that breaks down the game's purchasing data into meaningful insights.
+My final report include each of the following:
 
 ### Player Count
 * Total Number of Players
@@ -29,7 +26,6 @@ Your final report should include each of the following:
   * Average Purchase Total per Person by Gender
 
 ### Age Demographics
-
 * The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
     * Purchase Count
     * Average Purchase Price
@@ -58,8 +54,3 @@ Your final report should include each of the following:
     * Purchase Count
     * Item Price
     * Total Purchase Value
-
-As final considerations:
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
